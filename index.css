@@ -4,7 +4,7 @@
 }
 
 body {
-    font-family: CursedTimer;
+    font-family: CursedTimer, sans-serif;
     margin: 0;
     text-align: center;
     color: #366056;
